@@ -1,0 +1,182 @@
+{
+  "documents": 101,
+  "runs_by_machine": [
+    {
+      "host": "10b7b168be0d",
+      "books": 101
+    },
+    {
+      "host": "122a7b5b3338",
+      "books": 1
+    },
+    {
+      "host": "169.254.56.43",
+      "books": 1
+    },
+    {
+      "host": "1e379d038fc0",
+      "books": 1
+    },
+    {
+      "host": "63d9fdc16e40",
+      "books": 3
+    },
+    {
+      "host": "bcf-surface",
+      "books": 3
+    },
+    {
+      "host": "cec8a874b1a2",
+      "books": 3
+    },
+    {
+      "host": "e81c23340a47",
+      "books": 101
+    },
+    {
+      "host": "ip-172-31-30-111",
+      "books": 100
+    },
+    {
+      "host": "udc-aw37-1",
+      "books": 101
+    }
+  ],
+  "last_processed": [
+    {
+      "_id": "pg996.txt",
+      "author": "Miguel de Cervantes Saavedra",
+      "bucket": "public-jgr5xq",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-30-111",
+          "at": "2026-11-04 14:49:27.663000"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-11 16:17:38.461000",
+          "job": "22815465_101"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-11 17:15:20.260000",
+          "job": "22817656_101"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-12 07:07:41.352000",
+          "job": "22821572_101"
+        },
+        {
+          "host": "10b7b168be0d",
+          "at": "2026-11-15 15:47:25.425000"
+        },
+        {
+          "host": "e81c23340a47",
+          "at": "2026-11-15 15:57:46.309000"
+        }
+      ],
+      "title": "Don Quixote",
+      "unique_words": 15574,
+      "vocabulary_ratio": 0.0359,
+      "word_count": 433304,
+      "llm_analysis": {
+        "summary": "- Setting: Set in Spain, particularly around the 16th century.\n- Main Characters: Don Quixote, a mad knight, and Sancho Panza, his loyal squire.\n- Plot Summary: Don Quixote, inspired by medieval chivalry stories, decides to ride off as a knight and falls in love with Dulcinea, a woman he believes to be a princess. However, he encounters numerous comedic and tragic misadventures, including battles with windmills, enchanted objects, and misunderstandings.",
+        "genre": "historical fiction",
+        "model": "Qwen/Qwen2.5-1.5B-Instruct",
+        "at": "2026-11-12 07:07:41.352000"
+      }
+    },
+    {
+      "_id": "pg98.txt",
+      "author": "Charles Dickens",
+      "bucket": "public-jgr5xq",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-30-111",
+          "at": "2026-11-04 14:49:27.279000"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-11 16:17:37.302000",
+          "job": "22815465_100"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-11 17:15:19.088000",
+          "job": "22817656_100"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-12 07:07:39.902000",
+          "job": "22821572_100"
+        },
+        {
+          "host": "10b7b168be0d",
+          "at": "2026-11-15 15:47:24.918000"
+        },
+        {
+          "host": "e81c23340a47",
+          "at": "2026-11-15 15:57:45.708000"
+        }
+      ],
+      "title": "A Tale of Two Cities",
+      "unique_words": 9698,
+      "vocabulary_ratio": 0.07,
+      "word_count": 138490,
+      "llm_analysis": {
+        "summary": "Jerry Cruncher, a young messenger at Tellson's Bank, receives a mysterious package containing a letter from Mr. Jarvis Lorry, a lawyer. Intrigued, Jerry decides to investigate.",
+        "genre": "mystery",
+        "model": "Qwen/Qwen2.5-1.5B-Instruct",
+        "at": "2026-11-12 07:07:39.902000"
+      }
+    },
+    {
+      "_id": "pg963.txt",
+      "author": "Charles Dickens",
+      "bucket": "public-jgr5xq",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-30-111",
+          "at": "2026-11-04 14:49:26.976000"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-11 16:17:38.161000",
+          "job": "22815465_99"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-11 17:12:33.390000",
+          "job": "22817656_99"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-12 07:07:41.024000",
+          "job": "22821572_99"
+        },
+        {
+          "host": "10b7b168be0d",
+          "at": "2026-11-15 15:47:24.536000"
+        },
+        {
+          "host": "e81c23340a47",
+          "at": "2026-11-15 15:57:45.214000"
+        }
+      ],
+      "title": "Little Dorrit",
+      "unique_words": 14784,
+      "vocabulary_ratio": 0.0428,
+      "word_count": 345231,
+      "llm_analysis": {
+        "summary": "Mr Arthur Clennam arrives in London from Marseilles, where he witnessed a tragic event involving a ship sinking. He meets his estranged mother, Mrs Clennam, who is confined to her room due to health issues. During their reunion, Mr Clennam learns about his father's death and the financial troubles of the family. Mrs Clennam reveals that her husband, Jeremiah Flintwinch, proposes marriage to her despite their shared past.",
+        "genre": "historical fiction",
+        "model": "Qwen/Qwen2.5-1.5B-Instruct",
+        "at": "2026-11-12 07:07:41.024000"
+      }
+    }
+  ]
+}
